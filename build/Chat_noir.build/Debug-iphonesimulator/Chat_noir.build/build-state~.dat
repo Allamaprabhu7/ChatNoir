@@ -1,0 +1,368 @@
+TChat_noir
+v7
+r0
+t312366618.706394
+cCheck dependencies
+cProcessInfoPlistFile "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Info.plist" Chat_noir-Info.plist
+cCpResource build/Debug-iphonesimulator/Chat_noir.app/dist.rtf dist.rtf
+cProcessPCH /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch.gch Chat_noir_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/main.o "/Users/permeative/Desktop/my data/Chat_noir/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noirAppDelegate.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DesignClass.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Cell.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Construct_DFS.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DistCell.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/PlayAreaVC.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir" normal i386
+cGenerateDSYMFile "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app.dSYM" "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir"
+cTouch "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/permeative/Desktop/my data/Chat_noir/Chat_noir_Prefix.pch
+c000000004CEB805E00000000000000BB
+t1290502238
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.h
+c000000004CEB44010000000000000131
+t1290486785
+s305
+i<Foundation/Foundation.h>
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m
+c000000004CEA40AF0000000000000142
+t1290420399
+s322
+i"Cell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.h
+c000000004CEB9B6F0000000000000182
+t1290509167
+s386
+i<UIKit/UIKit.h>
+i"PlayAreaVC.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m
+c000000004CEBA8B10000000000000BEA
+t1290512561
+s3050
+i"Chat_noirAppDelegate.h"
+i"DesignClass.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.h
+c000000004CEB63BD000000000000016B
+t1290494909
+s363
+i<Foundation/Foundation.h>
+i"DistCell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m
+c000000004CEB84E1000000000000235C
+t1290503393
+s9052
+i"Construct_DFS.h"
+i"Cell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.h
+c000000004CEB6E2300000000000000BC
+t1290497571
+s188
+i<Foundation/Foundation.h>
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m
+c000000004CEB938900000000000015A8
+t1290507145
+s5544
+i"DesignClass.h"
+i"Construct_DFS.h"
+i"Cell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.h
+c000000004CEA456F000000000000015B
+t1290421615
+s347
+i<Foundation/Foundation.h>
+i"Cell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m
+c000000004CEA49D800000000000000D7
+t1290422744
+s215
+i"DistCell.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.h
+c000000004CEB9662000000000000008C
+t1290507874
+s140
+i<UIKit/UIKit.h>
+
+N/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m
+c000000004CEB99000000000000000617
+t1290508544
+s1559
+i"PlayAreaVC.h"
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Cell.o
+t1290673818
+s11668
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noir.LinkFileList
+c000000004CEE1E9900000000000003BF
+t1290673817
+s959
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noirAppDelegate.o
+t1290673818
+s46376
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Construct_DFS.o
+t1290673818
+s30408
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DesignClass.o
+t1290673818
+s25040
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DistCell.o
+t1290673818
+s10868
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/PlayAreaVC.o
+t1290673818
+s37584
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/main.o
+t1290673818
+s6496
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app
+t1290673818
+s204
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app.dSYM
+t1290673818
+s102
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir
+t1290673818
+s46384
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Info.plist
+t1290673817
+s729
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/PkgInfo
+t1290673817
+s8
+
+N/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/dist.rtf
+t1290673817
+s362
+
+N/Users/permeative/Desktop/my data/Chat_noir/dist.rtf
+c000000004CE4F17B000000000000016A
+t1290072443
+s362
+
+N/Users/permeative/Desktop/my data/Chat_noir/main.m
+c000000004CEAA20F0000000000000180
+t1290445327
+s384
+i<UIKit/UIKit.h>
+
+N/var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch.gch
+t1290673818
+s13825936
+
+NChat_noir-Info.plist
+c000000004CEB9BFD0000000000000465
+t1290509309
+s1125
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312366617#312366617#0(0"0(0#1#0"8607233600#0"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Cell.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.449637
+e312366618.524781
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Cell.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m312366618#312366618#0(0"0(0#0#58"/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m8607167744#2026"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/Cell.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Cell.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noirAppDelegate.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.266686
+e312366618.339916
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noirAppDelegate.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m312366618#312366618#0(0"0(0#0#74"/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m8607000128#2058"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/Chat_noirAppDelegate.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noirAppDelegate.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Construct_DFS.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.465996
+e312366618.597259
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Construct_DFS.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m312366618#312366618#0(0"0(0#0#67"/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m8609418912#2044"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/Construct_DFS.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Construct_DFS.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DesignClass.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.340022
+e312366618.465886
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DesignClass.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m: In function '-[DesignClass startInitilising]':
+o/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m:46: warning: unused variable 'CatPosnMap'
+o/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m:43: warning: unused variable 'bounderyMap'
+lSLF07#2@73"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m312366618#312366618#0(331"/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m: In function '-[DesignClass startInitilising]':/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m:46: warning: unused variable 'CatPosnMap'/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m:43: warning: unused variable 'bounderyMap'2(22@28"Unused variable 'CatPosnMap'312366618#114#108#0(6@65"/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m312199945#46#0#46#0#19"unused variable '*'0(22@29"Unused variable 'bounderyMap'312366618#222#109#0(6@65"/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m312199945#43#0#43#0#19"unused variable '*'0(0#0#65"/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m8607595328#2040"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/DesignClass.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DesignClass.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DistCell.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.524903
+e312366618.603664
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DistCell.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m312366618#312366618#0(0"0(0#0#62"/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m8609158240#2034"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/DistCell.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/DistCell.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/PlayAreaVC.o "/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.597364
+e312366618.663287
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/PlayAreaVC.o
+x/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m312366618#312366618#0(0"0(0#0#64"/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m8607217440#2038"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/Classes/PlayAreaVC.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/PlayAreaVC.o"0#
+
+CCompileC build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/main.o "/Users/permeative/Desktop/my data/Chat_noir/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366618.265052
+e312366618.449537
+r1
+xCompileC
+xbuild/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/main.o
+x/Users/permeative/Desktop/my data/Chat_noir/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/permeative/Desktop/my data/Chat_noir/main.m312366618#312366618#0(0"0(0#0#50"/Users/permeative/Desktop/my data/Chat_noir/main.m8609334400#2018"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -include /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch -c "/Users/permeative/Desktop/my data/Chat_noir/main.m" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/main.o"0#
+
+CCpResource build/Debug-iphonesimulator/Chat_noir.app/dist.rtf dist.rtf
+s312366617.381036
+e312366617.438755
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Chat_noir.app/dist.rtf
+xdist.rtf
+lSLF07#2@13"Copy dist.rtf312366617#312366617#0(0"0(0#0#52"/Users/permeative/Desktop/my data/Chat_noir/dist.rtf8609850496#475"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/permeative/Desktop/my data/Chat_noir/dist.rtf" "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app"0#
+
+CGenerateDSYMFile "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app.dSYM" "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir"
+s312366618.686103
+e312366618.703564
+r1
+xGenerateDSYMFile
+x/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app.dSYM
+x/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Chat_noir.app.dSYM build/Debug-iphonesimulator/Chat_noir.app/Chat_noir312366618#312366618#0(0"0(0#0#95"/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir8606927680#410"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir" -o "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app.dSYM"0#
+
+CLd "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir" normal i386
+s312366618.663386
+e312366618.685995
+r1
+xLd
+x/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir
+xnormal
+xi386
+lSLF07#2@100"Link /Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir312366618#312366618#0(0"0(0#0#0"8610222176#945"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" -filelist "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Objects-normal/i386/Chat_noir.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Chat_noir"0#
+
+CProcessInfoPlistFile "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Info.plist" Chat_noir-Info.plist
+s312366617.367564
+e312366617.380947
+r1
+xProcessInfoPlistFile
+x/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Info.plist
+xChat_noir-Info.plist
+lSLF07#2@28"Process Chat_noir-Info.plist312366617#312366617#0(0"0(0#0#64"/Users/permeative/Desktop/my data/Chat_noir/Chat_noir-Info.plist8610338432#506"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Chat_noir-Info.plist -genpkginfo "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app/Info.plist"0#
+
+CProcessPCH /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch.gch Chat_noir_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312366617.438892
+e312366618.264936
+r1
+xProcessPCH
+x/var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch.gch
+xChat_noir_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Chat_noir_Prefix.pch312366617#312366618#0(0"0(0#0#64"/Users/permeative/Desktop/my data/Chat_noir/Chat_noir_Prefix.pch8609339936#1901"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-generated-files.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-own-target-headers.hmap" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-all-target-headers.hmap" -iquote "/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/Chat_noir-project-headers.hmap" "-F/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/include" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources/i386" "-I/Users/permeative/Desktop/my data/Chat_noir/build/Chat_noir.build/Debug-iphonesimulator/Chat_noir.build/DerivedSources" -c "/Users/permeative/Desktop/my data/Chat_noir/Chat_noir_Prefix.pch" -o /var/folders/1b/1bMnbjUWFNaDIrk4EzrCtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Chat_noir_Prefix-etfmleuxgjulhreyxshqrwtgagja/Chat_noir_Prefix.pch.gch0#
+
+CTouch "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app"
+s312366618.703654
+e312366618.706353
+r1
+xTouch
+x/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app
+lSLF07#2@91"Touch /Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app312366618#312366618#0(0"0(0#0#0"8599951648#294"    cd "/Users/permeative/Desktop/my data/Chat_noir"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/permeative/Desktop/my data/Chat_noir/build/Debug-iphonesimulator/Chat_noir.app"0#
+
